@@ -1,4 +1,4 @@
-# Hellhound
+# Hellhound-Battle robot
 This a Battle robot 
 
 It has a spnning drum as it's main weapon
